@@ -1,3 +1,4 @@
+//Making my second comment
 var trex, trex_running, trex_collided;
 var ground, invisibleGround, groundImage;
 
@@ -64,7 +65,7 @@ function setup() {
 }
 
 function draw() {
-  background(180);
+  background(200);
   
    text("Score: "+ score, 500,50);
   
